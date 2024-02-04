@@ -2,6 +2,8 @@
 
 Давайте сделаем свой TODO list!
 
+Deploy: https://vlad-coder-678.github.io/todont-list/
+
 ## Задание
 
 Посмотрите пример того, что вам нужно сделать: [Todo List](https://todont.zachmanson.com/)
